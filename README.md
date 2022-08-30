@@ -1,5 +1,7 @@
 ### Hi, I'm Georgiana👋
 
+I am training for the role of an SDET at Sparta Global
+
 <!--
 **GeorgianaEmiliou/GeorgianaEmiliou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
